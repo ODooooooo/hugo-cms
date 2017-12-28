@@ -5,4 +5,4 @@ description: test intro
 ---
 suite TEXTE ....
 
-![null](/img/OD_anonyme.png)
+![null](/img/anytrans_icon4.png)
