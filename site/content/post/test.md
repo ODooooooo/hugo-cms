@@ -5,6 +5,4 @@ description: test intro
 ---
 suite TEXTE ....
 
-
-
-![](/img/OD_anonyme.png)
+![null](/img/OD_anonyme.png)
